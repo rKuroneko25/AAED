@@ -1,2 +1,2 @@
 
-Practica 6 - AAED
+Practica informaticas - AAED
