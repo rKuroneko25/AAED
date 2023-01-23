@@ -14,8 +14,8 @@ public:
 	tren();
 	void desp_izq();
 	void desp_der();
-	void BV();
-	vagon OV() const;
+	void Borrar_Vagon();
+	vagon Observar_Vagon() const;
 	bool vacio() const;
 private:
 	Pila<vagon>Izq,Der;
