@@ -26,7 +26,7 @@ void tren::desp_der()
 	}
 }
 
-void tren::BV()
+void tren::Borrar_Vagon()
 {
 	if(!Der.vacia())
 	{
@@ -39,7 +39,7 @@ void tren::BV()
 	}
 }
 
-vagon tren::OV() const
+vagon tren::Observar_Vagon() const
 {
 	return Der.tope();
 }
